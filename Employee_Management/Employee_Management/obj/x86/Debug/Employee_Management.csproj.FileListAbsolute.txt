@@ -1,0 +1,29 @@
+E:\Rohit_Shedage\C#\Employee_Management\Employee_Management\bin\Debug\Employee_Management.exe.config
+E:\Rohit_Shedage\C#\Employee_Management\Employee_Management\bin\Debug\Employee_Management.exe
+E:\Rohit_Shedage\C#\Employee_Management\Employee_Management\bin\Debug\Employee_Management.pdb
+E:\Rohit_Shedage\C#\Employee_Management\Employee_Management\obj\x86\Debug\Employee_Management.csprojResolveAssemblyReference.cache
+E:\Rohit_Shedage\C#\Employee_Management\Employee_Management\obj\x86\Debug\Employee_Management.frm_Add_Employee_Detail.resources
+E:\Rohit_Shedage\C#\Employee_Management\Employee_Management\obj\x86\Debug\Employee_Management.frm_Emp_Login.resources
+E:\Rohit_Shedage\C#\Employee_Management\Employee_Management\obj\x86\Debug\Employee_Management.frm_Search_Employee_Details.resources
+E:\Rohit_Shedage\C#\Employee_Management\Employee_Management\obj\x86\Debug\Employee_Management.frm_Update_Employee_Detail.resources
+E:\Rohit_Shedage\C#\Employee_Management\Employee_Management\obj\x86\Debug\Employee_Management.frm_View_Emp_Details.resources
+E:\Rohit_Shedage\C#\Employee_Management\Employee_Management\obj\x86\Debug\Employee_Management.MDI_frm_Employee_Management.resources
+E:\Rohit_Shedage\C#\Employee_Management\Employee_Management\obj\x86\Debug\Employee_Management.Properties.Resources.resources
+E:\Rohit_Shedage\C#\Employee_Management\Employee_Management\obj\x86\Debug\Employee_Management.csproj.GenerateResource.Cache
+E:\Rohit_Shedage\C#\Employee_Management\Employee_Management\obj\x86\Debug\Employee_Management.exe
+E:\Rohit_Shedage\C#\Employee_Management\Employee_Management\obj\x86\Debug\Employee_Management.pdb
+F:\Ankita\C# .Net\Employee_Management\Employee_Management\bin\Debug\Employee_Management.exe.config
+F:\Ankita\C# .Net\Employee_Management\Employee_Management\bin\Debug\Employee_Management.exe
+F:\Ankita\C# .Net\Employee_Management\Employee_Management\bin\Debug\Employee_Management.pdb
+F:\Ankita\C# .Net\Employee_Management\Employee_Management\obj\x86\Debug\Employee_Management.csprojAssemblyReference.cache
+F:\Ankita\C# .Net\Employee_Management\Employee_Management\obj\x86\Debug\Employee_Management.frm_Add_Employee_Detail.resources
+F:\Ankita\C# .Net\Employee_Management\Employee_Management\obj\x86\Debug\Employee_Management.frm_Emp_Login.resources
+F:\Ankita\C# .Net\Employee_Management\Employee_Management\obj\x86\Debug\Employee_Management.frm_Search_Employee_Details.resources
+F:\Ankita\C# .Net\Employee_Management\Employee_Management\obj\x86\Debug\Employee_Management.frm_Update_Employee_Detail.resources
+F:\Ankita\C# .Net\Employee_Management\Employee_Management\obj\x86\Debug\Employee_Management.frm_View_Emp_Details.resources
+F:\Ankita\C# .Net\Employee_Management\Employee_Management\obj\x86\Debug\Employee_Management.MDI_frm_Employee_Management.resources
+F:\Ankita\C# .Net\Employee_Management\Employee_Management\obj\x86\Debug\Employee_Management.Properties.Resources.resources
+F:\Ankita\C# .Net\Employee_Management\Employee_Management\obj\x86\Debug\Employee_Management.csproj.GenerateResource.cache
+F:\Ankita\C# .Net\Employee_Management\Employee_Management\obj\x86\Debug\Employee_Management.csproj.CoreCompileInputs.cache
+F:\Ankita\C# .Net\Employee_Management\Employee_Management\obj\x86\Debug\Employee_Management.exe
+F:\Ankita\C# .Net\Employee_Management\Employee_Management\obj\x86\Debug\Employee_Management.pdb
