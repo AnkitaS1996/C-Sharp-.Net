@@ -1,0 +1,15 @@
+E:\Ankita Shedage\ECS Software\Product_Detail_Information\Product_Detail_Information\obj\x86\Debug\Product_Detail_Information.frm_Login.resources
+E:\Ankita Shedage\ECS Software\Product_Detail_Information\Product_Detail_Information\obj\x86\Debug\Product_Detail_Information.Properties.Resources.resources
+E:\Ankita Shedage\ECS Software\Product_Detail_Information\Product_Detail_Information\obj\x86\Debug\Product_Detail_Information.csproj.GenerateResource.Cache
+E:\Ankita Shedage\ECS Software\Product_Detail_Information\Product_Detail_Information\bin\Debug\Product_Detail_Information.exe
+E:\Ankita Shedage\ECS Software\Product_Detail_Information\Product_Detail_Information\bin\Debug\Product_Detail_Information.pdb
+E:\Ankita Shedage\ECS Software\Product_Detail_Information\Product_Detail_Information\obj\x86\Debug\Product_Detail_Information.exe
+E:\Ankita Shedage\ECS Software\Product_Detail_Information\Product_Detail_Information\obj\x86\Debug\Product_Detail_Information.pdb
+E:\Ankita Shedage\ECS Software\Product_Detail_Information\Product_Detail_Information\obj\x86\Debug\Product_Detail_Information.csprojResolveAssemblyReference.cache
+E:\Ankita Shedage\ECS Software\Product_Detail_Information\Product_Detail_Information\obj\x86\Debug\Product_Detail_Information.Add_Product_Detail_Information.resources
+E:\Ankita Shedage\ECS Software\Product_Detail_Information\Product_Detail_Information\obj\x86\Debug\Product_Detail_Information.View_Product_Detail.resources
+E:\Ankita Shedage\ECS Software\Product_Detail_Information\Product_Detail_Information\bin\Debug\Product_Detail_Information.exe.config
+E:\Ankita Shedage\ECS Software\Product_Detail_Information\Product_Detail_Information\obj\x86\Debug\Product_Detail_Information.Search_Product_Details.resources
+E:\Ankita Shedage\ECS Software\Product_Detail_Information\Product_Detail_Information\obj\x86\Debug\Product_Detail_Information.Delete_Product_Details.resources
+E:\Ankita Shedage\ECS Software\Product_Detail_Information\Product_Detail_Information\obj\x86\Debug\Product_Detail_Information.Update_Product_Details.resources
+E:\Ankita Shedage\ECS Software\Product_Detail_Information\Product_Detail_Information\obj\x86\Debug\Product_Detail_Information.Form1.resources
