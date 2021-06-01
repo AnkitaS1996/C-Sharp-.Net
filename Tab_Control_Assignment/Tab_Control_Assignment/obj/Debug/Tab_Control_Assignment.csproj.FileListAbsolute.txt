@@ -1,0 +1,10 @@
+F:\Ankita\C# .Net\Tab_Control_Assignment\Tab_Control_Assignment\bin\Debug\Tab_Control_Assignment.exe.config
+F:\Ankita\C# .Net\Tab_Control_Assignment\Tab_Control_Assignment\bin\Debug\Tab_Control_Assignment.exe
+F:\Ankita\C# .Net\Tab_Control_Assignment\Tab_Control_Assignment\bin\Debug\Tab_Control_Assignment.pdb
+F:\Ankita\C# .Net\Tab_Control_Assignment\Tab_Control_Assignment\obj\Debug\Tab_Control_Assignment.csprojAssemblyReference.cache
+F:\Ankita\C# .Net\Tab_Control_Assignment\Tab_Control_Assignment\obj\Debug\Tab_Control_Assignment.Properties.Resources.resources
+F:\Ankita\C# .Net\Tab_Control_Assignment\Tab_Control_Assignment\obj\Debug\Tab_Control_Assignment.csproj.GenerateResource.cache
+F:\Ankita\C# .Net\Tab_Control_Assignment\Tab_Control_Assignment\obj\Debug\Tab_Control_Assignment.csproj.CoreCompileInputs.cache
+F:\Ankita\C# .Net\Tab_Control_Assignment\Tab_Control_Assignment\obj\Debug\Tab_Control_Assignment.exe
+F:\Ankita\C# .Net\Tab_Control_Assignment\Tab_Control_Assignment\obj\Debug\Tab_Control_Assignment.pdb
+F:\Ankita\C# .Net\Tab_Control_Assignment\Tab_Control_Assignment\obj\Debug\Tab_Control_Assignment.Frm_Login.resources
